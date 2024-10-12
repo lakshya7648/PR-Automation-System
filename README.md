@@ -41,7 +41,8 @@ to install the neccessary file for your project.
 
 3. Ensure you have NodeJS in your computer to run this project.
 
-4. Open CMD on both the folders i.e. frontend and backend folder (there is no folder with name frontend but a backend so this will differentiate between the two) and type the following : 
+4. Open CMD on both the folders i.e. frontend and backend folder (there is no folder with name frontend but a backend so this will differentiate between the two) and type the following :
+   
 **Frontend** 
 ```bash
     npm run dev
