@@ -8,8 +8,10 @@ Developed an automated system for GitHub pull request (PR) reviews that integrat
 
 ## Assumptions
 There are several assumptions used in this:
-    1.No UI for pull requests has to be shown means whatever the data added whatever was the pull request is not shown in this.
-    2.Due to less time accesstoken has been stored both in backend Database and localStorage for automation and good user experience.
+
+    1. No UI for pull requests has to be shown means whatever the data added whatever was the pull request is not shown in this.
+
+    2. Due to less time accesstoken has been stored both in backend Database and localStorage for automation and good user experience.
 
 
 
@@ -39,7 +41,8 @@ to install the neccessary file for your project.
 
 3. Ensure you have NodeJS in your computer to run this project.
 
-4. Open CMD on both the folders i.e. frontend and backend folder (there is no folder with name frontend but a backend so this will differentiate between the two) and type the following : 
+4. Open CMD on both the folders i.e. frontend and backend folder (there is no folder with name frontend but a backend so this will differentiate between the two) and type the following :
+   
 **Frontend** 
 ```bash
     npm run dev
