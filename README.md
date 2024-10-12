@@ -13,7 +13,25 @@ There are several assumptions used in this:
 
     2. Due to less time accesstoken has been stored both in backend Database and localStorage for automation and good user experience.
 
+## Future Improvements
+While the current implementation of the Automated GitHub PR Review System provides a solid foundation, there are several areas for potential enhancement:
+**User Interface and User Experience**
+    UI/UX can be enhanced by including an option to create webhook with more options and to show the details PR raised and what comment is added by the AI Model.
 
+**Security**
+    Although tried to achieve as much as security possible, system can be furthur enhanced in future by storing the token in database only and sending the frontend access token encrypted by JWT.
+
+**User Customization Options**
+    Allow users to customize the criteria for automated reviews, enabling them to set specific rules or thresholds that align with their coding practices.
+
+**Testing Suite**
+    Develop a comprehensive testing suite to ensure all functionalities work as expected and to facilitate future development.
+
+**Performance Optimization**
+    Optimize the system for better performance and scalability, ensuring it can handle larger repositories and higher volumes of PRs without latency.
+
+    
+And many more improvements can be done in the project, thus by implementing these improvements, the system can evolve to better meet the needs of users and contribute to a more efficient development workflow.
 
 ## Tech Stack
 
