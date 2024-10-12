@@ -8,8 +8,10 @@ Developed an automated system for GitHub pull request (PR) reviews that integrat
 
 ## Assumptions
 There are several assumptions used in this:
-    1.No UI for pull requests has to be shown means whatever the data added whatever was the pull request is not shown in this.
-    2.Due to less time accesstoken has been stored both in backend Database and localStorage for automation and good user experience.
+
+    1. No UI for pull requests has to be shown means whatever the data added whatever was the pull request is not shown in this.
+
+    2. Due to less time accesstoken has been stored both in backend Database and localStorage for automation and good user experience.
 
 
 
