@@ -35,7 +35,6 @@ function App() {
     <>
       <Alert
         showAlert={showAlert.show}
-        type={showAlert.type}
         message={showAlert.message}
       />
       <Home handleAlert={handleAlert} />
