@@ -157,7 +157,7 @@ To run this project you will have to add following environment variables in both
 
 2. Creating an oAuth App
 
-    [Create Webhook](https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/creating-an-oauth-app)
+    [Create OAuth in Github](https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/creating-an-oauth-app)
 
 3. Testing Webhook
 
